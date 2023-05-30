@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 638d1b4c5d3312443a03cf395d0befe9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthPotion: {fileID: 6021555434035712699, guid: f887781dce032634694c770f2be35c10, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

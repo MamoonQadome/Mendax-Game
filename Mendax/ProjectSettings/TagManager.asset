@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - weapons
+  - Enemys
+  - Arrows
+  - Archer
+  - Shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Attackable/Enemy
+  - Ground
+  - Shield
+  - Player
+  - Projectiles/Enemy
+  - Projectiles/Player
+  - Spike
+  - Potion
+  - dialogue
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 4285469363
+    locked: 0
+  - name: tree
+    uniqueID: 467987547
+    locked: 0
